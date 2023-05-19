@@ -1,0 +1,47 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../../Downloads/chat.png</file>
+        <file>../../Downloads/app-drawer.png</file>
+        <file>../../Downloads/arrow-left.png</file>
+        <file>../../Downloads/antenna.png</file>
+        <file>../../Downloads/menu.png</file>
+        <file>../../Downloads/navigation-bar.png</file>
+        <file>../../Downloads/www.png</file>
+        <file>../../Downloads/search.png</file>
+        <file>../../Downloads/ios-message.png</file>
+        <file>../../Downloads/box.png</file>
+        <file>../../Downloads/fast-forward-double-right-arrows-symbol.png</file>
+        <file>../../Downloads/apple-logo.png</file>
+        <file>../../Downloads/view.png</file>
+        <file>../../Downloads/wall-clock.png</file>
+        <file>../../Downloads/tik-tok.png</file>
+        <file>../../Downloads/save-instagram.png</file>
+        <file>../../Downloads/user.png</file>
+        <file>../../Downloads/close.png</file>
+        <file>../../Downloads/lightbulb.png</file>
+        <file>../../Downloads/placeholder.png</file>
+        <file>../../Downloads/right-arrow.png</file>
+        <file>../../Downloads/star (1).png</file>
+        <file>../../Downloads/telephone-call.png</file>
+        <file>../../Downloads/search-interface-symbol.png</file>
+        <file>../../Downloads/group.png</file>
+        <file>../../Downloads/save-money.png</file>
+        <file>../../Downloads/check.png</file>
+        <file>../../Downloads/heart.png</file>
+        <file>../../Downloads/star.png</file>
+        <file>../../Downloads/target.png</file>
+        <file>../../Downloads/telegram.png</file>
+        <file>../../Downloads/gmail.png</file>
+        <file>../../Downloads/love.png</file>
+        <file>../../Downloads/share.png</file>
+        <file>../../Downloads/notification.png</file>
+        <file>../../Downloads/upload (1).png</file>
+        <file>../../Downloads/upload.png</file>
+        <file>../../Downloads/comment.png</file>
+        <file>../../Downloads/send-message.png</file>
+        <file>../../Downloads/attach-paperclip-symbol.png</file>
+        <file>../../Downloads/attachment.png</file>
+        <file>../../Downloads/chat-box.png</file>
+        <file>../../Downloads/chat (1).png</file>
+    </qresource>
+</RCC>
